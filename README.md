@@ -9,9 +9,9 @@ OpenGL 2.1.0.12 and Tao Framework library
 
 ### The view of a 3D diffraction model
 
-(docs/3d model_1.png)
-(docs/3d model_2.png)
-(docs/3d model_3.png)
+![3d model_1](docs/3d model_1.png)
+![3d model_2](docs/3d model_2.png)
+![3d model_3](docs/3d model_3.png)
 
 ### The solution
 
